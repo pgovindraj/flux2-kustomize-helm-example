@@ -8,6 +8,7 @@ spec:
     spec:
       version: ">=1.0.0"
   values:
+    replicaCount: 5
     ingress:
       hosts:
         - podinfo.production
